@@ -13,5 +13,4 @@ Olá! Eu sou José Lucas, economista formado pela UFRRJ, apaixonado por programa
 
 ### • Planilhas, Relatórios e Apresentações:
 <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"><img align="center" alt="Word" src="https://img.shields.io/badge/Word-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white">
-<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-47248F?style=for-the-badge&logo=canva&logoColor=white">
-<img align="center" alt="Power Point" src="https://img.shields.io/badge/PowerPoint-FF7F00?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+
