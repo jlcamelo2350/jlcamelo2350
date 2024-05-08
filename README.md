@@ -1,5 +1,5 @@
 
-# Olá, mundo! Eu sou José Lucas 👋😁
+# Hello World! Eu sou José Lucas 👋😁
 
 ## Meu contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlcam3250@gmail.com)
