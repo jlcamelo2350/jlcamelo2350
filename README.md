@@ -10,7 +10,7 @@ Olá! Eu sou José Lucas, economista formado pela UFRRJ, apaixonado por programa
 
 ## Habilidades 🚀
 ### Programação: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue)
-### Análises estatísticas: ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Stata](https://img.shields.io/badge/Stata-1F3B4D?style=for-the-badge&logo=stata&logoColor=white)
+### Análise estatística: ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Stata](https://img.shields.io/badge/Stata-1F3B4D?style=for-the-badge&logo=stata&logoColor=white)
 ### Manipulação de Banco de Dados: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ### Planilhas e Relatórios: ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
