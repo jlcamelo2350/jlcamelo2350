@@ -27,10 +27,10 @@ Olá! Eu sou José Lucas, economista formado pela UFRRJ, apaixonado por programa
     
   -  Simulação de retornos de alguns portfólios 💸. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio
     
-  -  Modelo preditivo de preços de ações. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/gr%C3%A1ficos/WEG%20dados
+  -  Modelo preditivo de preços de ações. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/weg_dados
     
-  - Análise de Empresas do Varejo Brasileiro. Analiso as empresas do setor a partir dos dados financeiros delas para entender seus desafios (suas batalhas contra as plataformas online asiáticas). Spoiler: é um massacre asiático que só pode ser contido com intervenção externa (governo)!🤫😉. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/An%C3%A1lise%20financeira%20-%20empresas%20do%20Varejo.pdf
+  - Análise de Empresas do Varejo Brasileiro. Analiso as empresas do setor a partir dos dados financeiros delas para entender seus desafios (suas batalhas contra as plataformas online asiáticas). Spoiler: é um massacre asiático que só pode ser contido com intervenção externa (governo)!🤫😉. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys
     
-- Voltado para análises econômicas utilizando ferramental da teoria econômica e análise estatística: https://github.com/jlcamelo2350/economics
-- Voltado outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
+- Repositório voltado para análises econômicas utilizando ferramental da teoria econômica e análise estatística: https://github.com/jlcamelo2350/economics
+- Este aqui é voltado outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
 ---
