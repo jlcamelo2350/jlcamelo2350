@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá! Eu sou José Lucas, economista formado pela UFRRJ, apaixonado por programação e tudo que envolva análise precisa e criatividade.
+Olá! Eu sou José Lucas, economista formado pela UFRRJ, Data Scientist por natureza, apaixonado por programação e tudo que envolva análise precisa e criatividade. 
 
 ## Habilidades 🚀
 ### Programação: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue)
@@ -33,4 +33,6 @@ Olá! Eu sou José Lucas, economista formado pela UFRRJ, apaixonado por programa
  
 - Repositório voltado para análises econômicas utilizando ferramental da teoria econômica e análise estatística: https://github.com/jlcamelo2350/economics
 - Este aqui é voltado outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
+
 ---
+Lembre-se que a verdade não está nas opiniões e sim nos dados 😉
