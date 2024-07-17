@@ -35,4 +35,8 @@ Olá! Eu sou José Lucas, economista formado pela UFRRJ, Data Scientist por natu
 - Este aqui é voltado outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
 
 ---
-Lembre-se que a verdade não está nas opiniões e sim nos dados 😉
+> *Lembre-se: a verdade não está nas opiniões e sim nos dados 😉*
+
+Paz 🖖🌟
+
+---
