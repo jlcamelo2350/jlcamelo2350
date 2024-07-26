@@ -32,6 +32,7 @@ Olá! Eu sou José Lucas, economista formado pela UFRRJ, Data Scientist por natu
      -  Análise da correlação entre Taxa Selic e Inflação no Brasil ao longo do tempo 📊💹. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA   
  
 - Repositório voltado para análises econômicas utilizando ferramental da teoria econômica e análise estatística: https://github.com/jlcamelo2350/economics
+       - aqui, por exemplo, eu tento prever a inflação do Brasil em 2024. Veja: https://github.com/jlcamelo2350/economics/tree/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil
 - Este aqui é voltado outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
 
 ---
