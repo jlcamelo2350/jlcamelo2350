@@ -5,7 +5,7 @@
 
 Olá! Eu sou José Lucas, economista formado pela UFRRJ, Data Scientist por natureza, apaixonado por programação e tudo que envolva análise precisa e criatividade. 
 
-# 🚨O que temos aqui?🤔
+## 🚨O que temos aqui?🤔
 Nesse perfil você encontrará vários projetos envolvendo análise de dados econômicos, financeiros, modelagens econométricas (machine learning) e muitos muitos códigos 😉🫡
 
 ## Meu contato:
