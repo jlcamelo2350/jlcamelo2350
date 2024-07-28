@@ -19,11 +19,13 @@ Nesse perfil você encontrará vários projetos envolvendo análise de dados eco
 ### Manipulação de Banco de Dados: ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ### Planilhas e Relatórios: ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
+
 ### Curiosidades:
 - Adoro café ☕️
 - Toco guitarra 🎸
 - Sou um meio-campista motorzinho do time 💪🙂
 - Acima de tudo: estou sempre em busca de novos desafios e aprendizados!
+
 
 ### Repositórios:
 - Voltado para automação de processos e análise de dados utilizando ferramental de programação: https://github.com/jlcamelo2350/Dados-e-automacao
