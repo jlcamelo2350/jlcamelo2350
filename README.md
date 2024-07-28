@@ -9,6 +9,9 @@ Olá! Eu sou José Lucas, economista formado pela UFRRJ, Data Scientist por natu
 Nesse perfil você encontrará vários projetos envolvendo análise de dados e ciência de dados. Utilizo de dados eonômicos, financeiros, modelagens econométricas (machine learning) e muitos muitos códigos para realizar isso 😉🫡
 
 ## Meu contato:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21979903171)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlcam3250@gmail.com)
 
 
