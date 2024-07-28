@@ -5,13 +5,8 @@
 
 Olá! Eu sou José Lucas, economista formado pela UFRRJ, Data Scientist por natureza, apaixonado por programação e tudo que envolva análise precisa e criatividade. 
 
-## 🚨O que temos aqui?🤔
+## 🚨O que tem aqui?🤔
 Nesse perfil você encontrará vários projetos envolvendo análise de dados e ciência de dados. Utilizo de dados econômicos, financeiros, modelagens econométricas (machine learning) e muitos muitos códigos para realizar isso 😉🫡
-
-## Meu contato:
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979903171)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlcam3250@gmail.com)
-
 
 
 ## Habilidades 🚀
@@ -44,7 +39,7 @@ Nesse perfil você encontrará vários projetos envolvendo análise de dados e c
   - Aqui, por exemplo, eu tento prever a inflação do Brasil em 2024 <img src="https://github.com/user-attachments/assets/231fa0e6-170d-408d-888f-4c6d3c06b5af" alt="icons8-inflation-64" width="25" height="25"> Veja: https://github.com/jlcamelo2350/economics/tree/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil
 
     
-- Este aqui é voltado outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
+- Este aqui é voltado para outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
 
 ---
 > *Lembre-se: a verdade não está nas opiniões e sim nos dados 😉*
