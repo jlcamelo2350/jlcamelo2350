@@ -7,7 +7,7 @@
 
 Olá! Eu sou José Lucas, economista formado pela UFRRJ, Data Scientist por natureza, apaixonado por programação e tudo que envolva análise precisa e criatividade. 
 
-## 🚨O que tem aqui?🤔
+## 🚨O que tem aqui?
 Nesse perfil você encontrará vários projetos envolvendo análise de dados e ciência de dados. Utilizo de dados econômicos, financeiros, modelagens econométricas (machine learning) e muitos muitos códigos para realizar isso 😉🫡
 
 
@@ -38,7 +38,7 @@ Nesse perfil você encontrará vários projetos envolvendo análise de dados e c
  
 - Repositório voltado para análises econômicas utilizando ferramental da teoria econômica e análise estatística: https://github.com/jlcamelo2350/economics
 
-  - Aqui, por exemplo, eu tento prever a inflação do Brasil em 2024🪙🪙💸 Veja: [https://github.com/jlcamelo2350/economics/tree/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil](https://github.com/jlcamelo2350/economics/blob/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil/infla%C3%A7%C3%A3o_modelo_Preditivo.ipynb)
+  - Aqui, por exemplo, eu tento prever a inflação do Brasil em 2024🪙💸 Veja: [https://github.com/jlcamelo2350/economics/tree/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil](https://github.com/jlcamelo2350/economics/blob/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil/infla%C3%A7%C3%A3o_modelo_Preditivo.ipynb)
 
     
 - Este aqui é voltado para outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
