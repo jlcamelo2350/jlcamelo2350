@@ -33,12 +33,12 @@ Nesse perfil você encontrará vários projetos envolvendo análise de dados e c
      - Análise de Empresas do Varejo Brasileiro. Analiso as empresas do setor a partir dos dados financeiros delas para entender seus desafios (suas batalhas contra as plataformas online asiáticas). Spoiler: é um massacre asiático que só pode ser contido com intervenção externa (governo)!🤫😉. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys
      -  Modelo preditivo de preços de ações. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/weg_dados
     
-     -  Simulação de retornos de alguns portfólios 💸. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio
+     -  Simulação de retornos de alguns portfólios. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio
      -  Análise da correlação entre Taxa Selic e Inflação no Brasil ao longo do tempo 📊💹. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA   
  
 - Repositório voltado para análises econômicas utilizando ferramental da teoria econômica e análise estatística: https://github.com/jlcamelo2350/economics
 
-  - Aqui, por exemplo, eu tento prever a inflação do Brasil em 2024 <img src="https://github.com/user-attachments/assets/231fa0e6-170d-408d-888f-4c6d3c06b5af" alt="icons8-inflation-64" width="25" height="25"> Veja: https://github.com/jlcamelo2350/economics/tree/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil
+  - Aqui, por exemplo, eu tento prever a inflação do Brasil em 2024🪙🪙💸 Veja: [https://github.com/jlcamelo2350/economics/tree/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil](https://github.com/jlcamelo2350/economics/blob/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil/infla%C3%A7%C3%A3o_modelo_Preditivo.ipynb)
 
     
 - Este aqui é voltado para outros programas mais criativos como alguns games: https://github.com/jlcamelo2350/python-variados
