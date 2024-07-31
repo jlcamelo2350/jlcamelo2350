@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I am José Lucas, an economist graduated from UFRRJ, a Data Scientist by nature, passionate about programming and everything that involves precise analysis and creativity.
+Hi! I am José Lucas, an economist graduated from UFRRJ, a Data Scientist by nature, passionate about programming and everything that involves precise analysis and creativity.
 
 ## 🚨What's Here?
 In this profile, you will find several projects involving data analysis and data science. I use economic and financial data, econometric modeling (machine learning), and lots and lots of code to achieve this 😉🫡
