@@ -28,15 +28,15 @@ In this profile, you will find several projects involving data analysis and data
 ### Repositórios:
 - Focused on data analysis and statistical modeling using programming tools: https://github.com/jlcamelo2350/Dados-e-automacao
   - ### **Check out some projects:**
-     -  🌐 Impactos da Inovação e da Liberdade Econômica na Renda Per Capita: Uma Análise Regressiva 🌍. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lise%20da%20rela%C3%A7%C3%A3o%20renda-inova%C3%A7%C3%A3o%20e%20liberdade%20econ%C3%B4mica
+     -  🌐 Impactos da Inovação e da Liberdade Econômica na Renda Per Capita: Uma Análise Regressiva 🌍. Look Here: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lise%20da%20rela%C3%A7%C3%A3o%20renda-inova%C3%A7%C3%A3o%20e%20liberdade%20econ%C3%B4mica
  
-     - Analysis of Brazilian Retail Companies. I analyze companies in the sector based on their financial data to understand their challenges (their battles against Asian online platforms). Spoiler: it's an Asian massacre that can only be contained with external intervention (government)!🤫😉. Veja: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys
+     - Analysis of Brazilian Retail Companies. I analyze companies in the sector based on their financial data to understand their challenges (their battles against Asian online platforms). Spoiler: it's an Asian massacre that can only be contained with external intervention (government)!🤫😉. See: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys
   
      -  Predictive model of stock prices. See: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/weg_dados
     
      -  Predictive model of stock prices. See: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio
      
-     -  Analysis of the correlation between Selic Rate and Inflation in Brazil over time 📊💹. Veja aqui: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA   
+     -  Analysis of the correlation between Selic Rate and Inflation in Brazil over time 📊💹. See: https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA   
  
 - Repository focused on economic analyses using economic theory and statistical analysis tools: https://github.com/jlcamelo2350/economics
 
