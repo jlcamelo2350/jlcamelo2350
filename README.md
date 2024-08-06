@@ -11,7 +11,7 @@ Hi! I am José Lucas. I'm passionate about programming and everything that invol
 In addition:
 - 🌍 I'm a Economist from Rio de Janeiro, graduated from UFRRJ 🚀
 - 💻 A Data Scientist (by nature and dedication)
-- 📊 I'm been deeply interested in and committed to learning data science tools. I have been working on projects involving machine learning 🤖, interactive and clear data visualization 📈, and generating precise and innovative insights 💡.
+- 📊 I'm deeply interested in and committed to learning data science tools. I have been working on projects involving machine learning 🤖, interactive and clear data visualization 📈, and generating precise and innovative insights 💡.
 
 ## Fun Facts:
 - In my free time, I either play the guitar or act as a midfield dynamo for the team. ⚽🎸
