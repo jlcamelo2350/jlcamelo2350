@@ -16,13 +16,6 @@ In this profile, you will find several projects involving data analysis and data
 ### Planilhas e Relatórios: ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
 
-### Fun Facts:
-- I love coffee ☕️
-- I play guitar 🎸
-- I am a midfield's "motorzinho" for the team ⚽💪
-- Above all: I am always looking for new challenges and learning opportunities!
-
-
 ### Repositórios:
 - Focused on data analysis and statistical modeling using programming tools: https://github.com/jlcamelo2350/Dados-e-automacao
   - ### **Check out some projects:**
