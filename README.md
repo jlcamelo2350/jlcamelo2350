@@ -58,7 +58,7 @@ Focused on data analysis and statistical modeling using programming tools.
 * [Impacts of Innovation and Economic Freedom on Per Capita Income](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20rela%C3%A7%C3%A3o%20renda-inova%C3%A7%C3%A3o%20e%20liberdade%20econ%C3%B4mica/Modelagem_com_dados_de_renda_per_inova%C3%A7%C3%A3o_e_liberdade_econ%C3%B4mica.ipynb): 🌍
   A regressive analysis exploring how innovation metrics and economic freedom indices correlate with per capita income across different countries. This study provides insights into the factors driving economic growth and prosperity.
 
-* [Correlation between Selic Rate and Inflation in Brazil](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA/Projeto_Selicvs_Infla%C3%A7%C3%A3o.ipynb): 📊💹
+* [Correlation between Selic Rate and Inflation in Brazil over time](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA/Projeto_Selicvs_Infla%C3%A7%C3%A3o.ipynb): 📊💹
   A time series analysis examining the relationship between Brazil's benchmark interest rate (Selic) and inflation (IPCA) over time. This project highlights the poor absorption of monetary policy by the Brazilian economy.
 
 * [Analysis of Brazilian Retail Companies](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys):
