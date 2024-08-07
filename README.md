@@ -59,7 +59,7 @@ Focused on data analysis and statistical modeling using programming tools.
   A regressive analysis exploring how innovation metrics and economic freedom indices correlate with per capita income across different countries. This study provides insights into the factors driving economic growth and prosperity.
 
 * [Correlation between Selic Rate and Inflation in Brazil](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA/Projeto_Selicvs_Infla%C3%A7%C3%A3o.ipynb): 📊💹
-  A time series analysis examining the relationship between Brazil's benchmark interest rate (Selic) and inflation (IPCA) over time. This project offers valuable insights into monetary policy effectiveness and inflation dynamics in Brazil.
+  A time series analysis examining the relationship between Brazil's benchmark interest rate (Selic) and inflation (IPCA) over time. This project highlights the poor absorption of monetary policy by the Brazilian economy.
 
 * [Analysis of Brazilian Retail Companies](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys):
   I analyze companies in the sector based on their financial data to understand their challenges (their battles against Asian online platforms). Spoiler: it's an Asian massacre that can only be contained with external intervention (government)!🤫😉
@@ -67,6 +67,9 @@ Focused on data analysis and statistical modeling using programming tools.
 * [Predictive Model of Stock Prices](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/weg_dados):
   A machine learning model designed to predict a company's share prices. It's a simple model that I intend to delve into further. However, this project does not fail to demonstrate the application of advanced statistical techniques and AI in financial forecasting.
 
+* [Cryptocurrency Price Analysis](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/criptomoedas/Cripto_moedas.ipynb): 📈💰
+  An analysis of prices for major cryptocurrencies using the yfinance library. This project examines the volatility and profitability of cryptocurrencies over time, highlighting their unique characteristics compared to traditional assets. It includes performance analysis, volatility studies, and insightful comparisons between cryptocurrencies and traditional companies.
+  
 * [Portfolio Returns Simulation](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio):
   A simulation tool for portfolio returns.
 
