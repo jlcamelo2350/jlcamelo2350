@@ -8,8 +8,8 @@
 
 Hi! I'm José Lucas, passionate about programming and everything that involves precise analysis and creativity.
 
-* 🌍 Economist from Rio de Janeiro, graduated from UFRRJ 🚀
-* 💻 Data Scientist by nature and dedication
+* I'm from Rio ⛱️
+* 📚 Graduated in Economics from UFRRJ
 * 📊 Deeply interested in and committed to learning data science tools
 * 🤖 Working on projects involving machine learning, interactive and clear data visualization 📈, and generating precise and innovative insights 💡
 
