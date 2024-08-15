@@ -9,16 +9,17 @@
 Hi! I'm José Lucas, passionate about programming and everything that involves precise analysis and creativity.
 
 * I'm from Rio ⛱️
-* 📚 Graduated in Economics from UFRRJ
+* Graduated in Economics from UFRRJ 📈💪
+* 📚 Currently, i study Systems Analysis at FAETERJ
 * 📊 Deeply interested in and committed to learning data science tools
-* 🤖 Working on projects involving machine learning, interactive and clear data visualization 📈, and generating precise and innovative insights 💡
+* 🤖 Working on projects involving machine learning, interactive and clear data visualization, and generating precise and innovative insights 💡
 
 ### Fun Facts:
 * In my free time, I either play the guitar or act as a midfield dynamo for the team. ⚽🎸
 
 ## What's Here? 🚨
 
-In this profile, you'll find various projects involving data analysis and data science. I use economic and financial data, econometric modeling (machine learning), and lots of code to achieve this 😉🫡
+In this profile, you'll find various projects involving data analysis and data science. I use economic and financial data, econometric modeling (machine learning), and lots of code to achieve this 🫡😃
 
 ## Skills 🚀
 
