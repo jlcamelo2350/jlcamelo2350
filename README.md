@@ -21,6 +21,8 @@ Hi! I'm José Lucas, passionate about programming and everything that involves p
 
 In this profile, you'll find various projects involving data analysis and data science. I use economic and financial data, econometric modeling (machine learning), and lots of code to achieve this 🫡😃
 
+keep scrolling down..
+
 ## Skills 🚀
 
 ### Programming:
