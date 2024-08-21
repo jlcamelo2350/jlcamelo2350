@@ -66,7 +66,7 @@ Focused on data analysis and statistical modeling using programming tools.
 * [Analysis of Brazilian Retail Companies](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys):
   I analyze companies in the sector based on their financial data to understand their challenges (their battles against Asian online platforms). Spoiler: it's an Asian massacre that can only be contained with external intervention (government)!🤫😉
 
-* [Predictive Model of Stock Prices](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/weg_dados):
+* [Predictive Model of Stock Prices](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/weg_dados/weg2_Modelo_de_preditivo_de_pre%C3%A7os_das_a%C3%A7%C3%B5es_da_WEG_SA.ipynb):
   A machine learning model designed to predict a company's share prices. It's a simple model that I intend to delve into further. However, this project does not fail to demonstrate the application of advanced statistical techniques and AI in financial forecasting.
 
 * [Cryptocurrency Price Analysis](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/criptomoedas/Cripto_moedas.ipynb): 📈💰
