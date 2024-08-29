@@ -11,7 +11,6 @@ Hi! I'm José Lucas, passionate about programming and everything that involves p
 * I'm from Rio ⛱️
 * Graduated in Economics from UFRRJ 📈💪
 * 📚 I'm currently studying Systems Analysis at FAETERJ
-* 📊 Deeply interested in and committed to learning data science tools
 * 🤖 Working on projects involving machine learning, interactive and clear data visualization, and generating precise and innovative insights 💡
 
 ### Fun Facts:
