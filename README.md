@@ -13,14 +13,6 @@ Hi! I'm José Lucas, passionate about programming and everything that involves p
 * 📚 I'm currently studying Systems Analysis at FAETERJ
 * 🤖 Working on projects involving machine learning, interactive and clear data visualization, and generating precise and innovative insights 💡
 
-### Fun Facts:
-* In my free time, I play as a creative/box-to-box midfielder ⚽💪
-
-## What's Here? 🚨
-
-In this profile, you'll find various projects involving data analysis and data science. I use economic and financial data, econometric modeling (machine learning), and lots of code to achieve this 🫡😃
-
-
 ## Skills 🚀
 
 ### Programming:
@@ -50,12 +42,7 @@ In this profile, you'll find various projects involving data analysis and data s
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
 
 
-## Featured Repositories
-
-### [Data and Automation](https://github.com/jlcamelo2350/Dados-e-automacao)
-Focused on data analysis and statistical modeling using programming tools.
-
-#### Highlighted Projects:
+## Highlighted Projects:
 * [Impacts of Innovation and Economic Freedom on Per Capita Income](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20rela%C3%A7%C3%A3o%20renda-inova%C3%A7%C3%A3o%20e%20liberdade%20econ%C3%B4mica/Modelagem_com_dados_de_renda_per_inova%C3%A7%C3%A3o_e_liberdade_econ%C3%B4mica.ipynb): 🌍
   A regressive analysis exploring how innovation metrics and economic freedom indices correlate with per capita income across different countries. This study provides insights into the factors driving economic growth and prosperity.
 
@@ -74,15 +61,15 @@ Focused on data analysis and statistical modeling using programming tools.
 * [Portfolio Returns Simulation](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Simula%C3%A7%C3%A3o%20de%20portf%C3%B3lio):
   A simulation tool for portfolio returns.
 
-### [Economic Analyses](https://github.com/jlcamelo2350/economics)
-Focused on economic analyses using economic theory and statistical analysis tools.
-
-#### Featured Project:
 * [Predicting Brazil's Inflation in 2024](https://github.com/jlcamelo2350/economics/blob/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil/infla%C3%A7%C3%A3o_modelo_Preditivo.ipynb) 🪙💸
   An econometric model aimed at forecasting Brazil's inflation rate for 2024. This project combines economic theory, statistical analysis, and machine learning techniques to provide insights into future economic conditions.
 
 ### [Creative Python Projects](https://github.com/jlcamelo2350/python-variados)
 A collection of diverse Python projects showcasing creativity and coding skills, including game development and other innovative applications.
+
+
+### Fun Facts:
+* In my free time, I play as a creative/box-to-box midfielder ⚽💪
 
 *Remember: The truth is not in opinions, but in data 😉*
 
