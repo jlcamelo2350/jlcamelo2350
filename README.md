@@ -49,7 +49,7 @@ Hi! I'm José Lucas, passionate about programming and everything that involves p
 * [Correlation between Selic Rate and Inflation in Brazil over time](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lise%20da%20Correla%C3%A7%C3%A3o%20Selic%20vs.%20IPCA/Projeto_Selicvs_Infla%C3%A7%C3%A3o.ipynb): 📊💹
   A time series analysis examining the relationship between Brazil's benchmark interest rate (Selic) and inflation (IPCA) over time. This project highlights the poor absorption of monetary policy by the Brazilian economy.
 
-* [Analysis of Brazilian Retail Companies](https://github.com/jlcamelo2350/Dados-e-automacao/tree/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys):
+* [Analysis of Brazilian Retail Companies](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/Varejo_analisys/An%C3%A1lise%20financeira%20-%20empresas%20do%20Varejo.pdf):
   I analyze companies in the sector based on their financial data to understand their challenges (their battles against Asian online platforms). Spoiler: it's an Asian massacre that can only be contained with external intervention (government)!🤫😉
 
 * [Predictive Model of Stock Prices](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/An%C3%A1lises%20e%20automa%C3%A7%C3%B5es%20com%20A%C3%A7%C3%B5es%20da%20B3/weg_dados/weg2_Modelo_de_preditivo_de_pre%C3%A7os_das_a%C3%A7%C3%B5es_da_WEG_SA.ipynb):
