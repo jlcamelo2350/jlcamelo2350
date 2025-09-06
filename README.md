@@ -46,6 +46,9 @@ Hi! I'm José Lucas, passionate about programming and everything that involves p
 
 
 ## Highlighted Projects:
+* [Customer Classification and Evolution Analysis in Retail](https://github.com/jlcamelo2350/Dados-e-automacao/blob/main/Classificacao_clientes/README.md) 🛍️📊  
+  A project focused on classifying customers into behavioral groups (e.g., FANS, PREMIUM, SUPER VIP, etc.) and analyzing their evolution from 2021 to 2025. It provides strategic insights for sustainable retail expansion, highlighting loyalty growth, conversion opportunities in mid-tier groups, and reengagement strategies for inactive customers.
+
 * [Predicting Brazil's Inflation in 2024](https://github.com/jlcamelo2350/economics/blob/main/Prevendo_infla%C3%A7%C3%A3o_2024_Brasil/infla%C3%A7%C3%A3o_modelo_Preditivo.ipynb) 🪙💸
   An econometric model aimed at forecasting Brazil's inflation rate for 2024. This project combines economic theory, statistical analysis, and machine learning techniques to provide insights into future economic conditions.
   
